@@ -2,7 +2,7 @@
 first try
 git 相关
 
-change
+try merge
 
 -----------------------------------------
 
